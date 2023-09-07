@@ -3,7 +3,7 @@
 The GetStartedDemo includes the indoor and outdoor scenes. You can experience the following in the demo: changing your view, locomotion, teleportation, and switching between the indoor and outdoor scenes.
 
 - For detailed steps, refer to [PICO Developer Documentation](https://developer-global.pico-interactive.com/document/unreal).
-- To SDK access,please refer to [PICO Unreal Integration SDK](https://developer.pico-interactive.com/).
+- To access SDK, refer to [PICO Unreal Integration SDK](https://developer-global.pico-interactive.com/resources/#sdk).
 
 # Environment
 Below is the demo's development environment:
@@ -17,9 +17,9 @@ Below is the demo's development environment:
 | PICO device's system version | 5.7.0 |
 
 ## Quick Start
-1. After getting the sample demo, unzip it to your own file (the file path must not appear in Chinese)
+1. After getting the demo, unzip it to your own file (the file path must not contain Chinese words).
 2. After unzipping the SDK file (Make sure it is the version you want to use), put the Plugins folder into your sample demo project directory.
-3. Double click the .uproject file which is under your sample demo project directory.Then choose the engine version that matches your Plugins.Finally, click OK.
+3. Double click the .uproject file which is under your sample demo project directory. Then choose the engine version that matches your Plugins.
 4. Now you can use the sample project.
 
 ## Licenses
